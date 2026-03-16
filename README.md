@@ -6,10 +6,10 @@ The project contains the below files.
 * Docker file & compose : Docker  containerization has been added.
 * Entity Relationship Diagram
 
-### Responsibility List
+### Tasks
 
-1. ER Diagram Creation : Akash Balan 
-2. Creating DB through Prisma ORM : Akash Balan & D.D.Ruwini Perera
-3. Implementing CRUD operations using tyepscript (6 tables) : Saju Kurisummoottil Raju & D.D.Ruwini Perera
-4. Unit & Integration Testing Attempt : All 3 members
+1. ER Diagram Creation
+2. Creating DB through Prisma ORM
+3. Implementing CRUD operations using tyepscript (6 tables)
+4. Unit & Integration Testing Attempt 
 
